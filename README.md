@@ -1,5 +1,5 @@
 # PHP DOS Launch
-DOS Batch Script for Launching PHP Built-in Browser and Your Project in Chrome
+DOS Batch Script for Launching PHP Built-in Webserver and Your Project in Chrome
 
 ## The Motivation
 
